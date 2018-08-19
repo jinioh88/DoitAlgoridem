@@ -44,7 +44,7 @@ public class Max3m {
         if(b<min)   min = b;
         if(c<min)   min = c;
         if(d<min)   min = d;
-        
+
         return min;
     }
 }
